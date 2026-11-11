@@ -5,3 +5,4 @@ box.onclick = () => {
     a++
     console.log(a)
 }
+
