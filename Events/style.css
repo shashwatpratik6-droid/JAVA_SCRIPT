@@ -5,3 +5,12 @@
     color:white;
     border: 1px solid black;
 }
+
+#btn1{
+    background-color:Red;
+    color:White;
+}
+#btn2{
+    background-color:rgb(208, 16, 229);
+    color:White;
+}
